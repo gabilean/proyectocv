@@ -6,3 +6,7 @@ function toggleText() {
         msg.style.display = "none";
     }
   }
+
+  function successPopup() {
+    alert("Formulario enviado");
+  }
